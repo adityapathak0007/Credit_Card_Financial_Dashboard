@@ -36,6 +36,7 @@ To complement the dashboard, a PowerPoint presentation has been prepared with de
 
 The presentation can be used to communicate findings to stakeholders effectively and is available as a downloadable file in this repository.
 
+
 ## 🔍 SQL Query Insights
 
 The data displayed in this dashboard is imported from an SQL database using customized queries. These queries pull relevant tables and fields such as transaction history, customer information, and spending categories. This integration allows for up-to-date data analysis and quick refresh capabilities.
