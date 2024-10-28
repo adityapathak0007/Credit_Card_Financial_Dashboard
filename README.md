@@ -24,6 +24,18 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 
 This dashboard is ideal for analyzing credit card performance, tracking customer demographics, and identifying spending patterns. It is fully customizable, allowing users to modify data sources and metrics as needed for specific analysis requirements.
 
+## 📊 Insights Presentation
+
+To complement the dashboard, a PowerPoint presentation has been prepared with detailed insights extracted from the analysis. This presentation covers:
+
+- **Key Metrics**: Summary of core performance indicators, including total transactions, average transaction value, and active accounts.
+- **Customer Insights**: Analysis of customer demographics, age segments, and top spending categories.
+- **Transaction Trends**: Overview of spending peaks, seasonal and weekly trends, and category-specific patterns.
+- **Geographical Insights**: Spending distribution across regions and identification of potential growth areas.
+- **Recommendations**: Suggested actions for marketing, promotions, and customer engagement.
+
+The presentation can be used to communicate findings to stakeholders effectively and is available as a downloadable file in this repository.
+
 ## 🔍 SQL Query Insights
 
 The data displayed in this dashboard is imported from an SQL database using customized queries. These queries pull relevant tables and fields such as transaction history, customer information, and spending categories. This integration allows for up-to-date data analysis and quick refresh capabilities.
